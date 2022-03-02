@@ -1,2 +1,9 @@
 # PA-1
-Projekt 1 PA
+Projekt nr. 1 PA 
+
+Temat projektu...
+Założenia...
+Funkcje...
+
+
+Kurzyński Jakub, 262072
