@@ -3,9 +3,8 @@ Projekt nr. 1 PA
 
 Temat projektu: Wielofunkcyjny kalkulator
 
-Założenia: Kalkulator liczący wiele rzeczy
 
-Funkcje: BMI, kalorie, spalanie samochodu, waluty
+Funkcje: BMI, kalorie, spalanie samochodu, waluty, jednostki
 
 
 Kurzyński Jakub, 262072
